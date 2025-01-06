@@ -1,0 +1,25 @@
+p {
+        background-color: rosybrown;
+        text-align: center;
+    color:rgb(41, 9, 9);
+
+    font-style: italic;
+    font-size: 40px;
+    font-weight: 20;
+    
+}
+.container{
+border:1px solid burlywood;
+border-radius:10px;
+margin:5px;
+display: flex;
+    align-content: stretch;
+    align-items: stretch;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+
+
+
+
